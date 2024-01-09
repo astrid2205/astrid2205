@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a project called ShowYourTrails, which is a web application where you can upload your gps trails and share them with your friends.
+- 🌱 I’m currently learning CS!
+
 <!--
 **astrid2205/astrid2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
