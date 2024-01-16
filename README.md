@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hi 👋
 
-- 🔭 I’m currently working on a project called ShowYourTrails, which is a web application where you can upload your gps trails and share them with your friends.
-- 🌱 I’m currently learning CS!
+I am Wu Ting-Hsuan. Born and grew up in Taiwan.
+
+Loves learning and traveling.
+
+----
+
+### 🌱 My Projects
+
+#### [ShowYourTrails](https://github.com/astrid2205/ShowYourTrails)
+- A Django-based web application enabling users to upload, share, and explore personalized hiking/biking trails with friends.
+- Visit [the website](https//showyourtrails.tech) to explore all the features.
+
+#### [Gitlet](https://github.com/astrid2205/gitlet)
+- a Java-based version-control system mirroring local Git features.
+
+----
+
+📫 reach me via tinghsuan.th@gmail.com
 
 <!--
 **astrid2205/astrid2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
