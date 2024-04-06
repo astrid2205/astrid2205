@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Wu Ting-Hsuan. Born and grew up in Taiwan.
+I am Ting-Hsuan. Born and grew up in Taiwan.
 
 Loves learning and traveling.
 
@@ -13,7 +13,11 @@ Loves learning and traveling.
 - Visit [the website](https//showyourtrails.tech) to explore all the features.
 
 #### [Gitlet](https://github.com/astrid2205/gitlet)
-- a Java-based version-control system mirroring local Git features.
+- A Java-based version-control system mirroring local Git features.
+
+#### [Password generator and Restaurant recommendation](https://github.com/astrid2205/FastAPI)
+- A simple [website](https://tinghsuan.onrender.com/) to generate random passwords and recommend a restaurant for you.
+- Front-end using React, back-end using FastAPI.
 
 ----
 
