@@ -10,7 +10,7 @@ Loves learning and traveling.
 
 #### [ShowYourTrails](https://github.com/astrid2205/ShowYourTrails)
 - A Django-based web application enabling users to upload, share, and explore personalized hiking/biking trails with friends.
-- Visit [the website](https//showyourtrails.tech) to explore all the features.
+- Visit [the website](https://showyourtrails.tech) to explore all the features.
 
 #### [Gitlet](https://github.com/astrid2205/gitlet)
 - A Java-based version-control system mirroring local Git features.
